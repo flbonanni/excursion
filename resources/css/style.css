@@ -26,3 +26,7 @@ p {
 a:-webkit-any-link {
     text-decoration: underline;
 }
+
+.footer {
+    text-align: right;
+}
